@@ -379,7 +379,7 @@ class AppLocalizationsEs extends AppLocalizations {
   String get careStatus => 'Estado de cuidado';
 
   @override
-  String get careStatusHappy => 'Feliz';
+  String get careStatusHappy => 'Sana';
 
   @override
   String get careStatusNeedsWater => 'Necesita agua';

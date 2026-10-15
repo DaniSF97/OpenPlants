@@ -116,7 +116,7 @@
   "deletePlantTitle": "Eliminar planta",
   "deletePlantConfirm": "¿Seguro que quieres eliminar {plantName}?",
   "careStatus": "Estado de cuidado",
-  "careStatusHappy": "Feliz",
+  "careStatusHappy": "Sana",
   "careStatusNeedsWater": "Necesita agua",
   "careStatusNeedsFertilizer": "Necesita fertilizante",
   "markAsWatered": "Marcar como regada",
